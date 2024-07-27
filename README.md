@@ -205,7 +205,7 @@ Extension used for creating a new file is .js , example: fileName.js
 
 ```
 //terminal code to run
-npx hardhat run scripts/deploy.js --network amoy
+npx hardhat run scripts/getbalance.js --network amoy
 ````
 
 ```javascript
