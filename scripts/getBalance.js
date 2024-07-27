@@ -10,7 +10,7 @@ require('dotenv').config()
 
 const tokenAddress = "0xdA93e4Bd10064aa1E176e3d98E27E344D3fEa311"; // place your erc20 contract address here
 const tokenABI = tokenContractJSON.abi;
-const walletAddress = "0x12D44d037Feaa703eC8031FE16572c4088ED3E5E"; // place your public address for your wallet here
+const walletAddress = "0x64d6BE676D4A0FE53F0C37Cb865b4901F0A84C48"; // place your public address for your wallet here
 
 async function main() {
 
