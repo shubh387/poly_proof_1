@@ -12,7 +12,7 @@ const tokenABI = tokenJSON.abi;
 const walletAddress = "0x64d6BE676D4A0FE53F0C37Cb865b4901F0A84C48";
 
 const fxRootContractABI = require("../fxRootContractABI.json");
-const fxERC21RootAddress = "0xF9bc4a80464E48369303196645e876c8C7D972de";
+const fxERC21RootAddress = "0x9E688939Cb5d484e401933D850207D6750852053";
  // place your public address for your wallet here
 
 async function main() {
