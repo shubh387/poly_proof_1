@@ -54,7 +54,7 @@ The contract creates a private Counters.Counter variable called _tokenIds to kee
 
 ```solidity
 
-constructor() ERC721("Spiderman", "kh") {}
+constructor() ERC721("Superman", "sh") {}
 
 ```
 The contract's constructor is defined, which sets the name and symbol for the NFT token. In this case, the NFT's name is set to "Spiderman" and its symbol to "kh".
