@@ -10,7 +10,7 @@ import "@openzeppelin/contracts/utils/Counters.sol";
 contract MetaToken is ERC721, Ownable {
     using Counters for Counters.Counter;
     Counters.Counter private _tokenIds;
-    constructor() ERC721("Spiderman", "kh") {}
+    constructor() ERC721("Superman", "sh") {}
 
     string[] uri = [
         "https://gateway.pinata.cloud/ipfs/QmeHCszCrMJDVZ7ZSt1vfj5VyYpQBkZX8NSB64snLTsc4f",
